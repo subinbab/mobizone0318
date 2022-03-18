@@ -1,0 +1,12 @@
+D:\projects\Mobizone-0318\DomainLayer\bin\Debug\net5.0\DomainLayer.deps.json
+D:\projects\Mobizone-0318\DomainLayer\bin\Debug\net5.0\DomainLayer.dll
+D:\projects\Mobizone-0318\DomainLayer\bin\Debug\net5.0\ref\DomainLayer.dll
+D:\projects\Mobizone-0318\DomainLayer\bin\Debug\net5.0\DomainLayer.pdb
+D:\projects\Mobizone-0318\DomainLayer\obj\Debug\net5.0\DomainLayer.csproj.AssemblyReference.cache
+D:\projects\Mobizone-0318\DomainLayer\obj\Debug\net5.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Mobizone-0318\DomainLayer\obj\Debug\net5.0\DomainLayer.AssemblyInfoInputs.cache
+D:\projects\Mobizone-0318\DomainLayer\obj\Debug\net5.0\DomainLayer.AssemblyInfo.cs
+D:\projects\Mobizone-0318\DomainLayer\obj\Debug\net5.0\DomainLayer.csproj.CoreCompileInputs.cache
+D:\projects\Mobizone-0318\DomainLayer\obj\Debug\net5.0\DomainLayer.dll
+D:\projects\Mobizone-0318\DomainLayer\obj\Debug\net5.0\ref\DomainLayer.dll
+D:\projects\Mobizone-0318\DomainLayer\obj\Debug\net5.0\DomainLayer.pdb

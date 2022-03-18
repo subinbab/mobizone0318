@@ -1,0 +1,12 @@
+D:\projects\Mobizone-0318\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+D:\projects\Mobizone-0318\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+D:\projects\Mobizone-0318\BusinessLayer\bin\Debug\net5.0\ref\BusinessLayer.dll
+D:\projects\Mobizone-0318\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+D:\projects\Mobizone-0318\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+D:\projects\Mobizone-0318\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Mobizone-0318\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+D:\projects\Mobizone-0318\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+D:\projects\Mobizone-0318\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\projects\Mobizone-0318\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+D:\projects\Mobizone-0318\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+D:\projects\Mobizone-0318\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
